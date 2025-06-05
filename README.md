@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @kenimice
+- 👋 Hi, I’m @mice/9
 - 👀 I’m interested in guitar, Rubic cube, Programming(Beginner), Nano block, and so on
 - 🌱 I’m currently learning Korean
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: KENI.mice
+- 😄 Pronouns: mice portable nine
 - ⚡ Fun fact: ...
 
 <!---
